@@ -8,10 +8,10 @@ import http.client, urllib.request, urllib.parse, urllib.error, base64
 import time
 
 # Programmatic key, available in luis.ai under Account Settings
-LUIS_programmaticKey  = "e5cbf16a13654d09ad2d016db3fe1ef9"
+LUIS_programmaticKey  = "FILL_IN"
 
 # ID of your LUISClients app to which you want to add an utterance
-LUIS_APP_ID      = "3331538a-ba60-4b5a-b42c-db851937185d"
+LUIS_APP_ID      = "FILL_IN"
 
 # The version number of your LUISClients app
 LUIS_APP_VERSION = "0.1"

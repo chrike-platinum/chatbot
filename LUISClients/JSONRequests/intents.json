@@ -1,0 +1,17 @@
+[
+    {
+        "name": "showSales"
+    },
+    {
+        "name": "showRevenue"
+    },
+    {
+        "name": "showSalesPerState"
+    },
+    {
+        "name": "showTopCustomers"
+    },
+    {
+        "name": "showSalesOnTimePercentage"
+    }
+]

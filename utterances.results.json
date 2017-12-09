@@ -1,0 +1,32 @@
+[
+  {
+    "value": {
+      "UtteranceText": "show me the revenue",
+      "ExampleId": -4522927
+    },
+    "hasError": false
+  },
+  {
+    "value": null,
+    "hasError": true,
+    "error": {
+      "code": "FAILED",
+      "message": "show me the latest revenue. Error: The intent classifier showRevenueLastMonth does not exist in the selected application"
+    }
+  },
+  {
+    "value": null,
+    "hasError": true,
+    "error": {
+      "code": "FAILED",
+      "message": "show me the revenue of last month. Error: The intent classifier showRevenueLastMonth does not exist in the selected application"
+    }
+  },
+  {
+    "value": {
+      "UtteranceText": "show me the customers",
+      "ExampleId": -4608963
+    },
+    "hasError": false
+  }
+]

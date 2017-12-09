@@ -1,0 +1,27 @@
+[
+    {
+        "text": "What are the sales of last month?",
+        "intentName": "showSales",
+        "entityLabels": []
+    },
+    {
+        "text": "What was the revenue of last year?",
+        "intentName": "showRevenue",
+        "entityLabels": []
+    },
+    {
+        "text": "Which states have the highest sales?",
+        "intentName": "showSalesPerState",
+        "entityLabels": []
+    },
+    {
+        "text": "Who are our top 10 customers?",
+        "intentName": "showTopCustomers",
+        "entityLabels": []
+    },
+    {
+        "text": "What percentage of our sales were on time last month?",
+        "intentName": "showSalesOnTimePercentage",
+        "entityLabels": []
+    }
+]

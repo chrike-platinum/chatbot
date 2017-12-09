@@ -1,0 +1,22 @@
+[
+    {
+        "text": "show me the revenue",
+        "intentName": "ShowRevenue",
+        "entityLabels": []
+    },
+        {
+        "text": "show me the latest revenue",
+        "intentName": "showRevenueLastMonth",
+        "entityLabels": []
+    },
+        {
+        "text": "show me the revenue of last month",
+        "intentName": "showRevenueLastMonth",
+        "entityLabels": []
+    },
+    {
+        "text": "show me the customers",
+        "intentName": "showCustomers",
+        "entityLabels": []
+    }
+]

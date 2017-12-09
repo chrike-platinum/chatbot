@@ -1,0 +1,5 @@
+What are the sales of last month? | showSales
+What was the revenue of last year? | showRevenue
+Which states have the highest sales? | showSalesPerState
+Who are our top 10 customers? | showTopCustomers
+What percentage of our sales were on time last month?| showSalesOnTimePercentage

@@ -1,0 +1,22 @@
+[
+  {
+    "text": "sentence A",
+    "intentName": "label A",
+    "entityLabels": []
+  },
+  {
+    "text": "sentence B",
+    "intentName": "label B",
+    "entityLabels": []
+  },
+  {
+    "text": "sentence C",
+    "intentName": "label C",
+    "entityLabels": []
+  },
+  {
+    "text": "sentence D",
+    "intentName": "label D",
+    "entityLabels": []
+  }
+]
